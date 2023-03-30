@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @Satoshi-Sh
-- 👀 I’m interested in music, data analytics, and webdevelopment.
-- 🌱 I’m currently learning with Odin project and Kaggle.
+# My Portfolio
+----------------
+[React Portfoli with Express](https://satoshi-sh.github.io/portfolio/) 
+### React Portfolio Website with Express
+https://satoshi-sh.github.io/portfolio/
+### Django Portfolio Website
+https://satoshi40.pythonanywhere.com
+### Kaggle Profile (Data Science/Data Analytics)
+https://www.kaggle.com/satoshiss
+# About Myself
+----------------------
+Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self-taught developer learning mainly Python and Javascript from data science to web development. I love music and enjoy making music with keyboards and guitar in my free time.
+-------------------------
+
 
 
 <!---
