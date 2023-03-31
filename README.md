@@ -1,3 +1,7 @@
+# About Myself
+----------------------
+Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self-taught developer, proficient in Python and Javascript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
+
 # My Portfolio
 ----------------
 ### React Portfolio Website with Express
@@ -6,9 +10,7 @@ https://satoshi-sh.github.io/portfolio/
 https://satoshi40.pythonanywhere.com
 ### Kaggle Profile (Data Science/Data Analytics)
 https://www.kaggle.com/satoshiss
-# About Myself
-----------------------
-Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self-taught developer learning mainly Python and Javascript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
+
 
 
 <!---
