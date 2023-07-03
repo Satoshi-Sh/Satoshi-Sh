@@ -5,6 +5,7 @@ Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self
 - [React Portfolio Website with Express](https://satoshi-sh.github.io/portfolio/) 
 - [Django Portfolio Website](https://satoshi40.pythonanywhere.com)
 - [Kaggle Profile (Data Science/Data Analytics)](https://www.kaggle.com/satoshiss)
+- [Hackathon Profile](https://devpost.com/Satoshi-Sh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
 
