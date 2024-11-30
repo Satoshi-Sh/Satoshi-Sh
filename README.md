@@ -1,3 +1,5 @@
+
+
 # About Myself
 Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self-taught developer, proficient in Python and Javascript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
 
@@ -7,7 +9,8 @@ Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a self
 - [Kaggle Profile (Data Science/Data Analytics)](https://www.kaggle.com/satoshiss)
 
 
-
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Satoshi-Sh&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
 <!---
