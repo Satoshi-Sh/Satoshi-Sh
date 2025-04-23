@@ -4,6 +4,12 @@
 Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a full-stack developer, proficient in Python and Javascript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
 
 # Open Source Projects Achievements
+
+[OpenStack Ironic](https://wiki.openstack.org/wiki/Ironic). Created 15 PRs and reviewed 5 PRs during the MLH Fellowship program 2025 Spring.
+
+[My contributions](https://review.opendev.org/q/satoshi-sh)
+
+
 [Taipy](https://github.com/Avaiga/taipy) is my go-to open-source project. My contributions are featured twice.
 <p>
 <img src="./taipy-winning.jpeg" alt="2024 Hacktoberfest achievement" width="280" height="280" />
