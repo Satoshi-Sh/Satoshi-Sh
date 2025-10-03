@@ -4,7 +4,7 @@
 Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a full-stack developer, proficient in Python and JavaScript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
 
 # Freelance Works
-- [Report Needles](https://reportneedles.ca/) Contributed to adding multi-organization support for reporting discarded needle. Built with WinterCMS(Laravel-based web framework)  
+- [Report Needles](https://reportneedles.ca/) Contributed to adding multi-organization(Regina - SK, Kenora - ON) support for reporting discarded needle. Built with WinterCMS(Laravel-based web framework)  
 
 # Open Source Projects Achievements
 
