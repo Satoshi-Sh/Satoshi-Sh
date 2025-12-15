@@ -1,7 +1,7 @@
 
 
 # About Myself
-Hello, this is Satoshi. I'm originally from Japan and live in Canada. I'm a full-stack developer, proficient in Python and JavaScript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
+Hello, this is Satoshi. I'm a full-stack developer, proficient in Python and JavaScript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
 
 # Freelance Works
 - Contributing to [WinterCMS](https://wintercms.com/) and the Plugins
