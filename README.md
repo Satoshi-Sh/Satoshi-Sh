@@ -4,8 +4,9 @@
 Hello, this is Satoshi. I'm a full-stack developer, proficient in Python and JavaScript from data science to web development. I love music and enjoy making music with keyboards and guitars in my free time.
 
 # Freelance Works
+- Developing [Wellplayed](https://jbmusictherapy.com/wellplayed-app/) web/mobile application at JBMusicTherapy
+- Building and maintaining Databricks-based pipelines in Python to ingest and normalize Solana ecosystem data from multiple providers, powering [Solana Data](https://solana.com/data)
 - Contributing to [WinterCMS](https://wintercms.com/) and the Plugins
-
 - [Report Needles](https://reportneedles.ca/) Contributed to adding multi-organization(Regina - SK, Kenora - ON) support for reporting discarded needle. Built with WinterCMS(Laravel-based web framework)  
 
 # Open Source Projects Achievements
